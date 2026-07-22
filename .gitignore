@@ -1,0 +1,12 @@
+# Ignore every file and folder by default.
+/*
+
+# Upload only the final project and deployment files below.
+!/.gitignore
+!/ITC6110-Project-Spring-2026.ipynb
+!/app.py
+!/rome_colosseum_visitor_reviews_final.csv
+!/requirements.txt
+!/requirements-app.txt
+!/README.md
+!/Dockerfile

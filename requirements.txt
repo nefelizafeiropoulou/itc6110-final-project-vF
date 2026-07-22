@@ -1,0 +1,38 @@
+# Tested with Python: 3.12.6
+
+# Core scientific stack
+numpy>=2.2,<2.4
+scipy>=1.15
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+xgboost
+adjustText
+
+# NLP / topic modeling
+nltk
+gensim>=4.4
+wordcloud
+pyLDAvis
+mlxtend
+
+# Data access / utilities
+kagglehub==0.3.13
+requests
+jinja2
+streamlit
+nbformat
+
+# Deep learning / transformers / embeddings
+torch
+transformers
+accelerate
+sentence-transformers
+huggingface-hub
+shap
+
+# Streamlit and related
+streamlit
+accelerate

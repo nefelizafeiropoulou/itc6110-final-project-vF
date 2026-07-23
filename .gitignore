@@ -10,3 +10,4 @@
 !/requirements-app.txt
 !/README.md
 !/Dockerfile
+!/00-VENV.ipynb
